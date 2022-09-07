@@ -1,4 +1,4 @@
-https://app.travis-ci.com/KelvinJC/simple-node.svg?branch=main
+![](https://app.travis-ci.com/KelvinJC/simple-node.svg?branch=main)
 
 # Overview
 
